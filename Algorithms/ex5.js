@@ -1,10 +1,7 @@
 /**
  * todo : 5. Using JavaScript, write a function findNearestPrime that receives a parameter N and returns the largest prime number that is lower than or equal N.
-<<<<<<< HEAD
  * * step 1: check prime numbers and push prime numbers to PrimeNumberArray
  * * step 2: check nearest prime in PrimeNumberArray
-=======
->>>>>>> af1cbd2db4b9a6017bca5abc22c380c0abcb1f89
  */
 
 const checkPrimeNumber = ( n ) => {
